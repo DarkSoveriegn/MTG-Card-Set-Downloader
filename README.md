@@ -36,3 +36,4 @@ Example:
  python mtg_downloader.py
 ```
 
+On first run, the app will connect to MySQL, Detect missing tables, Automatically creates: sets, cards, card_images, config, No SQL scripts needed.

@@ -1,0 +1,12 @@
+{
+    "root_directory": "E:/Projects/MTGData/resources/card images",
+    "last_set_file": "E:/Projects/MTGData/resources/downloader inputs/cards.txt",
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "!!Cj012013!!",
+        "database": "mtg_images"
+    },
+    "concurrency": 8,
+    "resume_mode": true
+}

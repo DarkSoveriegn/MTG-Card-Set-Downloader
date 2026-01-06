@@ -1,5 +1,5 @@
 1. Install Python 3.10+
-2. Have a database (I suggest Mqsql) engine as we use this to store minor card data and as a verification and precess restart source.
+2. Have a database (I suggest Mqsql) engine as we use this to store minor card data and as a verification and process restart source.
 3. Install the dependancies using pip:
 ```powershell
  pip install aiohttp mysql-connector-python
